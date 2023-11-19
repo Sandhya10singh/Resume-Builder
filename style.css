@@ -1,0 +1,78 @@
+body {
+    background-color: black;
+}
+
+.myimg {
+
+    border-radius: 50%;
+    width: 250px;
+}
+#by {
+    width: 20px;
+}
+/* #cv-form{
+display: none;    
+} */
+.background {
+background-color: rgba(135, 87, 53, 0.942);
+}
+
+#cv-template {
+    display: none;
+}
+
+.container {
+    color: chocolate;
+    text-align: justify;
+    size: 4rem;
+    padding: 10px;
+    font-size: larger;
+}
+
+.aqAddButton {
+    size: 40px;
+}
+
+#personal {
+    /* background-color:  rgb(70, 156, 156);    */
+    padding: 30px;
+    font-size: larger;
+
+}
+
+#Professional {
+    padding: 30px;
+    font-size: larger;
+}
+
+.form-control {
+    background-color: rgb(128, 82, 52);
+}
+
+.form-control:hover {
+    background-color: rgb(195, 109, 53);
+}
+
+.text-secondary {
+    font-size: small;
+}
+
+.btn {
+    background-color: rgb(128, 82, 52);
+    border: none;
+}
+
+.btn:hover {
+    background-color: rgb(195, 109, 53);
+}
+.text-secondary {
+display: none;
+color: chocolate;
+   font-weight: 300;
+   font-size: large;
+   padding: 30px;
+}
+.hr{
+    color: black;
+    font-weight: bolder;
+}
